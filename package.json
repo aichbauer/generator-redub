@@ -1,0 +1,29 @@
+{
+  "name": "generator-redub",
+  "version": "0.0.0",
+  "description": "a yeoman generator to create a redub (react redux boilerplate) project",
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "yeoman-generator",
+    "react",
+    "redux",
+    "boilerplate",
+    "redub"
+  ],
+  "author": "Aichbauer Lukas <rudolfson.junior@gmail.com> (https://github.com/rudolfsonjunior/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudolfsonjunior/generator-redub.git"
+  },
+  "dependencies": {
+    "yeoman-generator": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/rudolfsonjunior/generator-redub/issues"
+  },
+  "homepage": "https://github.com/rudolfsonjunior/generator-redub#readme"
+}
